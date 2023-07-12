@@ -50,3 +50,9 @@ alias fucking='sudo'
 alias port='sudo netstat -nlp'
 alias ports='port'
 alias ..="cd .."
+
+# Killer
+alias rip="wsl.exe --shutdown"
+alias ripl="lando poweroff"
+alias lando-rip="lando poweroff"
+alias rip-lando="lando poweroff"
